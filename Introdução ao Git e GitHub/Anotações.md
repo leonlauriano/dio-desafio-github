@@ -1,8 +1,8 @@
-##Links Uteis
 Link para download do Git: https://git-scm.com/downloads 
-O Git Bash é um terminal extendido para otimizar o uso do Git.
 
+O Git Bash é um terminal extendido para otimizar o uso do Git
 Comandos para subir pastas para o GitHub:
+
 "git status" : pra saber o status e ver se tem alguma pasta que nao foi comitada, etc...
 <p align="center">
   <img src="https://imgur.com/ViJOuf6.png" width = 60%>
